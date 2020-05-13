@@ -1,0 +1,2 @@
+rootProject.name='Android Model View Intent Sample'
+include ':app'

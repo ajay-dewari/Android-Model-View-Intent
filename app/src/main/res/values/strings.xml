@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Model View Intent Sample</string>
+    <string name="number">Number:</string>
+    <string name="add">Add</string>
+    <string name="input_number_to_add">Input number to add</string>
+    <string name="loading_please_wait">Loading, please wait…</string>
+    <string name="msg_invalid_number_selected">You must enter a valid integer</string>
+</resources>
