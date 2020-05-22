@@ -5,9 +5,7 @@ import com.nhaarman.mockitokotlin2.any
 import com.nhaarman.mockitokotlin2.mock
 import com.nhaarman.mockitokotlin2.times
 import com.nhaarman.mockitokotlin2.verify
-import me.danlowe.simplemvi.databinding.ActivityMainBinding
 import org.junit.Test
-import kotlin.text.Typography.times
 
 class MviContentHandlerTest {
 
